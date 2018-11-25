@@ -1,5 +1,6 @@
-## e-election
-online election portal
+## e-election  [![HitCount](http://hits.dwyl.io/ssp4all/E-Election.svg)](http://hits.dwyl.io/ssp4all/E-Election)
+
+Online Election Portal
 
 [![Built with ❤](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com/#)
 
