@@ -1,4 +1,4 @@
-## e-election  [![HitCount](http://hits.dwyl.io/ssp4all/E-Election.svg)](http://hits.dwyl.io/ssp4all/E-Election)
+## E-Election  [![HitCount](http://hits.dwyl.io/ssp4all/E-Election.svg)](http://hits.dwyl.io/ssp4all/E-Election)
 
 Online Election Portal
 
@@ -7,28 +7,28 @@ Online Election Portal
 [![works on Windows](https://img.shields.io/badge/works%20on-Windows-blue.svg)](http://shields.io/#your-badge)
 [![works on Linux](https://img.shields.io/badge/works%20on-Linux-green.svg)](http://shields.io/#your-badge)
 
-### installation
+### Installation
 
-step to run this webapplication
+Step to run this web-application
 
-1.clone this repo
+1. Clone this repo
 
-2.install xampp for window or linux
+2. Install xampp for window or linux
 
-3.copy this repo into  xampp->htdocs
+3. Copy this repo into  xampp->htdocs
 
-4.open browser
+4. open browser
 
-5.open localhost/e-election/Index.php
+5. Start XAMPP and then open localhost/E-Election/Index.php
 
-(note :if u change port ie,81 then type localhost:81/e-election/Index.php)
+(NOTE: If u change port ie,81 then type localhost:81/E-Election/Index.php)
 
-6.contact in case of any error
+6. Contact in case of any error
 
-### e-election working 1
+### E-Election working 1
 ![Working on localhost](election-1.gif)
 
-### e-election working 2
+### E-Election working 2
 ![Working on localhost](election-2.gif)
 
 
